@@ -716,6 +716,10 @@ img{
 
 
 /*==================== PROJECT IN MIND ====================*/
+.swiper-wrapper{
+    display: flex;
+    align-items: center;
+}
 .project{
     text-align: center;
 }
